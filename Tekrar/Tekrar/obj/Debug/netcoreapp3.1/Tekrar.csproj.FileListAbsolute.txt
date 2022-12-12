@@ -1,0 +1,14 @@
+C:\Users\Maqsud\Desktop\Homeworks\Tekrar\Tekrar\obj\Debug\netcoreapp3.1\Tekrar.csproj.AssemblyReference.cache
+C:\Users\Maqsud\Desktop\Homeworks\Tekrar\Tekrar\obj\Debug\netcoreapp3.1\Tekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maqsud\Desktop\Homeworks\Tekrar\Tekrar\obj\Debug\netcoreapp3.1\Tekrar.AssemblyInfoInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\Tekrar\Tekrar\obj\Debug\netcoreapp3.1\Tekrar.AssemblyInfo.cs
+C:\Users\Maqsud\Desktop\Homeworks\Tekrar\Tekrar\obj\Debug\netcoreapp3.1\Tekrar.csproj.CoreCompileInputs.cache
+C:\Users\Maqsud\Desktop\Homeworks\Tekrar\Tekrar\bin\Debug\netcoreapp3.1\Tekrar.exe
+C:\Users\Maqsud\Desktop\Homeworks\Tekrar\Tekrar\bin\Debug\netcoreapp3.1\Tekrar.deps.json
+C:\Users\Maqsud\Desktop\Homeworks\Tekrar\Tekrar\bin\Debug\netcoreapp3.1\Tekrar.runtimeconfig.json
+C:\Users\Maqsud\Desktop\Homeworks\Tekrar\Tekrar\bin\Debug\netcoreapp3.1\Tekrar.runtimeconfig.dev.json
+C:\Users\Maqsud\Desktop\Homeworks\Tekrar\Tekrar\bin\Debug\netcoreapp3.1\Tekrar.dll
+C:\Users\Maqsud\Desktop\Homeworks\Tekrar\Tekrar\bin\Debug\netcoreapp3.1\Tekrar.pdb
+C:\Users\Maqsud\Desktop\Homeworks\Tekrar\Tekrar\obj\Debug\netcoreapp3.1\Tekrar.dll
+C:\Users\Maqsud\Desktop\Homeworks\Tekrar\Tekrar\obj\Debug\netcoreapp3.1\Tekrar.pdb
+C:\Users\Maqsud\Desktop\Homeworks\Tekrar\Tekrar\obj\Debug\netcoreapp3.1\Tekrar.genruntimeconfig.cache
